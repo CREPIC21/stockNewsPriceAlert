@@ -2,5 +2,3 @@
 - datetime module
 - os module
 - twilio module - sending text message via python
-- string methods - replace(), index()
-- slicing [:]
