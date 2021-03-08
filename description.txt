@@ -1,0 +1,5 @@
+- requests module (get(), raise_for_status(), json())
+- datetime module
+- twilio module - sending text message via python
+- string methods - replace(), index()
+- slicing [:]
