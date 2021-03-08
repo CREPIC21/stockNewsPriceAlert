@@ -1,4 +1,5 @@
 - requests module (get(), raise_for_status(), json())
 - datetime module
 - os module
+- string method - replace()
 - twilio module - sending text message via python
